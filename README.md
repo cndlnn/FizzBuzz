@@ -214,7 +214,7 @@ a sequence of three git commands:
 
 - [X] Once you execute these commands, you can check your GitHub repository to confirm that the changes have been made there.
 
-- [ ] repeat the above steps for `README.md` (or try using the approach below).
+- [X] repeat the above steps for `README.md` (or try using the approach below).
 
 Tip: You can also use IntelliJ to execute these same steps using the graphical user interface it provides.
 If you have followed the software installation instructions, you should see `Git` in the menu bar at the top.
@@ -306,7 +306,7 @@ the file. Then click the commit button to commit the change to the repository.
 This change has now been made on GitHub,
 but your local copy doesn't know about the change yet.
 
-- [ ] In IntelliJ, you can either click the `Git` menu and choose `Pull...`,
+- [X] In IntelliJ, you can either click the `Git` menu and choose `Pull...`,
 or you can run `git pull` from the Terminal tab. Once you have done the pull, you should see that commit show up in
 your local repository.
 
@@ -324,12 +324,12 @@ commit, push steps you learned in lab this week).
 
 ## Task 4: Multiples of 3 and 5
 
-- [ ] Right-click on `src` and select `New —> Java Class`. Name it `Multiples`.
+- [X] Right-click on `src` and select `New —> Java Class`. Name it `Multiples`.
 
 We're looking for non-negative multiples of 3 or 5. The first four are 3, 5, 6, and 9, so there are
 four below 10. How many are below 1000?
 
-- [ ] In `Multiples.java`, write a main method that **prints** how many multiples of 3 or 5 there are below 1000.
+- [X] In `Multiples.java`, write a main method that **prints** how many multiples of 3 or 5 there are below 1000.
 Add this file to your project, commit, and push. Check your repo on GitHub to confirm your changes were pushed successfully.
 
 Tip: Just like with `psvm`, you can start typing `sout` and then press Enter to generate `System.out.println();` in IntelliJ.
